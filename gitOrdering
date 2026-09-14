@@ -1,0 +1,20 @@
+
+
+
+# If a repo is cloned on your computer 
+	-> git clone
+
+# Steps:
+	Before dev: git pull
+
+	Do your own development 
+
+	After dev: git pull
+
+	git add <filename> or . (current directory) or -A (for all)
+		git add -A means all modifications since last commit
+
+	git commit -m "some message" 
+		- this is like a checkpoint
+
+	git push -> sends local copy to remote 
